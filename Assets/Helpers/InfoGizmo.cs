@@ -17,6 +17,8 @@ namespace Helpers
         [SerializeField] private Color _color = Color.red;
         [SerializeField] private float _radius = 1.0f;
 
+        public float Radius => _radius;
+
         private void OnDrawGizmos()
         {
             Gizmos.color = _color;
