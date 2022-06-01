@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ce564847c824a0b8dd9165e0c88887, type: 3}
+  m_Name: SpawnPointData
+  m_EditorClassIdentifier: 
+  TeleportInPoints:
+  - Position: {x: 22.11, y: 1, z: 13.82}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -23.75, y: 1, z: -18.57}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -22.32, y: 1, z: 21.89}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  TeleportOutPoints:
+  - Position: {x: 23.13, y: 1, z: 1.36}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -22.24, y: 1, z: 8.13}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 23.04, y: 1, z: -23.25}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  PlayerDoorsPoints:
+  - Position: {x: -4.7, y: 1, z: 1.21}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 2.72, y: 1, z: -20.6}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 13.05, y: 1, z: -20.6}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 2.8, y: 1, z: 21}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  RegularDoorsPoints:
+  - Position: {x: 0.61, y: 1, z: 5.5}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -17.67, y: 1, z: -20.6}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 10.07, y: 1, z: -5.11}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 1.2, y: 1, z: -5.99}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -14.76, y: 1, z: 23.36}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  EnemyPoints:
+  - Position: {x: 15.2, y: 0, z: -24.2}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -14, y: 0, z: -17.9}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -18.61, y: 0, z: 21.03}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 21.52, y: 0, z: -7.86}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -22.12, y: 0, z: -1.82}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -9.7, y: 0, z: 11.6}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 1.9, y: 0, z: -12.3}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 21.9, y: 0, z: 22.4}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -7.26, y: 0, z: -23.65}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  SeedPoints:
+  - Position: {x: -23, y: 0, z: -23.3}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 18.91, y: 0, z: 21.52}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 8.02, y: 0, z: -14.4}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -11.5, y: 0, z: 19.2}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 3.5, y: 0, z: 14.7}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: 14.3, y: 0, z: 3}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+  - Position: {x: -4.32, y: 0, z: -1.71}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
